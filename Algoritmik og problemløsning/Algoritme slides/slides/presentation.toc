@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Dagens program}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduktion til algoritmer}{10}{0}{2}
+\beamer@sectionintoc {3}{Algoritme vs Algoritme}{21}{0}{3}
+\beamer@sectionintoc {4}{Algoritme design}{39}{0}{4}
+\beamer@sectionintoc {5}{\IeC {\O }velser}{44}{0}{5}
+\beamer@sectionintoc {6}{Opsamling og Sp\IeC {\o }rgsm\IeC {\r a}l}{68}{0}{6}
